@@ -144,4 +144,4 @@ VALUES
 ('White Noise', 'Don', 'DeLillo', 1985, 49, 320),
 ('Cannery Row', 'John', 'Steinbeck', 1945, 95, 181),
 ('Oblivion: Stories', 'David', 'Foster Wallace', 2004, 172, 329),
-('Consider the Lobster', 'David', 'Foster Wallace', 2005, 92, 343);
+('Consider the Lobster', 'David', 'Foster Wallace', 2005, 92, );
